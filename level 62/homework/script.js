@@ -1,6 +1,6 @@
 // 1. პაროლის გამოცნობა
 function guessPassword() {
-    const password = "Group 41 is best";
+    const password = "Group 55 is best";
     let attempts = 3;
 
     while (attempts > 0) {
